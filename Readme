@@ -1,7 +1,6 @@
 Raw data for the CABANA Workshop: Analysis of Crop Genomics Data (Universidad de los Andes - UniAndes, Bogota, Colombia)
 
-The files sangiovese-13_{1,2}.fastq.gz contain a subset of Illuimna PE 150 sequencing reads, for the Vitis vinifera "Sangiovese" cultivar. Reads were selected 
-from a whole genome resequencing assay, performed and published by Liang et al (2019, 10.1038/s41467-019-09135-8). The complete fastq files can be accessed
+The files sangiovese-13_{1,2}.fastq.gz contain a subset of Illuimna PE 150 sequencing reads, for the Vitis vinifera "Sangiovese" cultivar. Reads were selected  from a whole genome resequencing assay, performed and published by Liang et al (2019, 10.1038/s41467-019-09135-8). The complete fastq files can be accessed
 at the European Nucleotide Archive (ENA, https://www.ebi.ac.uk/ena/browser) under accession number SRR5891601. 
 
 Guides and related materials can be accessed at: 
